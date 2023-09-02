@@ -1,0 +1,19 @@
+1. install this
+set it if asked y/n answer y
+pkg install xxd 
+pkg install vim
+--------------------------
+
+2. command convert 
+------------------------------
+cd /storage/emulated/0/convert 
+
+(change your directory)
+
+xxd -i katawa.ttf > katawa.h 
+
+(first font name second name after conversion)
+----------------------------------
+
+
+FAQ: if you entered the last command and nothing appeared on the command line, then just look in the directory where your tff
