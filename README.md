@@ -10,3 +10,14 @@ commands (in txt)
 
 PS: 
 you can upload files up to 25 mb sorry add repo
+```
+cd is to change directory
+
+
+you need to specify your directory in which the font is located
+
+```
+
+# credits:
+https://github.com/termux/termux-app 
+
