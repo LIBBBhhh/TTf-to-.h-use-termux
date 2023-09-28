@@ -19,7 +19,10 @@ sh ato.sh
 
 in the sh script, be sure to edit your font name; the output does not need to be edited
 
+### PS 
+its work
 
+![image](https://github.com/LIBBBhhh/TTf-to-.h-use-termux/assets/131472646/84f7a450-e3a5-480d-8807-7d24a53e8b1b)
 
 # credits:
 https://github.com/termux/termux-app 
