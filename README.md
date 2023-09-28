@@ -4,16 +4,16 @@ hello everyone i will show you how to convert ttf font to .h. texted it on a fon
 termux https://github.com/termux/termux-app/releases
 
 
-you can make your fonts in .h
-
-commands (in txt)
 
 
+
+Now you don’t have to mess around with files, just run the bash script in Termux
+example:
 ```
-cd is to change directory
+cd /path/to/script
 
 
-you need to specify your directory in which the font is located
+sh yoursh.sh
 
 ```
 
