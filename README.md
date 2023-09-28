@@ -13,9 +13,13 @@ example:
 cd /path/to/script
 
 
-sh yoursh.sh
+sh ato.sh
 
 ```
+
+in the sh script, be sure to edit your font name; the output does not need to be edited
+
+
 
 # credits:
 https://github.com/termux/termux-app 
